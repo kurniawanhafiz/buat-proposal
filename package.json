@@ -1,0 +1,8 @@
+{
+  "name": "buat-proposal",
+  "version": "1.0.0",
+  "description": "Skill pembuat proposal penelitian/skripsi (.docx) sesuai pedoman PS Sistem Informasi FMIPA Universitas Riau",
+  "license": "MIT",
+  "private": true,
+  "dependencies": { "docx": "^9.8.1" }
+}

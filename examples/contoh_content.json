@@ -1,0 +1,619 @@
+{
+  "meta": {
+    "jenis": "penelitian",
+    "jenis_penelitian": "kuantitatif",
+    "judul": "Pengaruh Penggunaan ChatGPT terhadap Kemampuan Berpikir Kritis Mahasiswa",
+    "nama": "Nama Mahasiswa",
+    "nim": "( NIM )",
+    "dosen": "Nama Dosen, M.Kom.",
+    "kota": "Pekanbaru",
+    "tahun": "2026",
+    "bulan_tahun": "November 2026",
+    "maks_tabel": 5,
+    "ref_config": {
+      "jumlah_min": 7,
+      "jumlah_maks": 15,
+      "min_indonesia": 3,
+      "min_jurnal_persen": 70,
+      "umur_maks_tahun": 5,
+      "pengecualian_tahun": [
+        "Facione (1990)",
+        "Yusup (2018)"
+      ]
+    },
+    "lewati_sitasi": []
+  },
+  "kata_pengantar": [
+    "Puji syukur penulis panjatkan ke hadirat Allah SWT atas limpahan rahmat dan karunia-Nya, sehingga penulis dapat menyelesaikan proposal penelitian yang berjudul “Pengaruh Penggunaan ChatGPT terhadap Kemampuan Berpikir Kritis Mahasiswa” ini.",
+    "Penulis memilih topik ini karena ChatGPT semakin sering dipakai mahasiswa untuk mengerjakan tugas perkuliahan, sementara pengaruhnya terhadap kemampuan berpikir kritis masih diperdebatkan. Penulis mengucapkan terima kasih kepada dosen pengampu yang telah membimbing penyusunan proposal ini.",
+    "Penulis menyadari bahwa proposal penelitian ini masih memiliki kekurangan. Oleh karena itu, kritik dan saran yang membangun sangat diharapkan demi perbaikan di masa mendatang."
+  ],
+  "bab": [
+    {
+      "judul": "Pendahuluan",
+      "sections": [
+        {
+          "judul": "Latar Belakang",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Alat kecerdasan buatan (AI) generatif, termasuk ChatGPT, kini dipakai luas oleh mahasiswa. Survei Higher Education Policy Institute terhadap mahasiswa sarjana di Inggris menunjukkan bahwa penggunaan alat AI naik dari 66% pada 2024 menjadi 92% pada 2025, dan 88% mahasiswa memakai AI generatif untuk tugas yang dinilai (Freeman, 2025). Data tersebut berasal dari satu negara, tetapi arah perubahannya menunjukkan bahwa alat semacam ini sudah menjadi bagian dari kegiatan belajar mahasiswa."
+            },
+            {
+              "t": "p",
+              "text": "Facione (1990) merumuskan berpikir kritis sebagai penilaian yang bertujuan dan mengatur diri sendiri, yang menghasilkan interpretasi, analisis, evaluasi, dan inferensi, disertai penjelasan atas bukti, konsep, metode, kriteria, atau konteks yang mendasarinya. Panel pakar dalam laporan itu menetapkan enam keterampilan inti, yaitu interpretasi, analisis, evaluasi, inferensi, penjelasan, dan pengaturan diri. Keterampilan tersebut terpakai ketika mahasiswa menilai sumber bacaan dan menyusun argumen, yaitu jenis tugas yang kini sering dibantu ChatGPT. Jika proses menilai dan menyusun itu diserahkan kepada alat, kesempatan mahasiswa untuk melatihnya dapat berkurang."
+            },
+            {
+              "t": "p",
+              "text": "Sejumlah penelitian menunjukkan adanya risiko tersebut. Gerlich (2025) menyurvei 666 partisipan dan menemukan korelasi negatif yang kuat antara seringnya penggunaan alat AI dan kemampuan berpikir kritis, yang dimediasi oleh pengalihan kognitif, yaitu kecenderungan menyerahkan proses berpikir kepada alat. Studi tersebut bersifat korelasional dan bergantung pada laporan diri sehingga belum membuktikan hubungan sebab-akibat."
+            },
+            {
+              "t": "p",
+              "text": "Hasil penelitian di Indonesia belum seragam. Nurcahyani dan Noviani (2026) menemukan pengaruh negatif yang signifikan dari penggunaan ChatGPT terhadap berpikir kritis pada mahasiswa S-1 Universitas Sebelas Maret dan siswa SMA Negeri 1 Kartasura. Sebaliknya, Rahmawati dkk. (2025) menemukan pengaruh positif yang signifikan dari penggunaan ChatGPT terhadap keterampilan menyusun pertanyaan efektif pada mahasiswa Pendidikan Ekonomi. Kedua studi memakai variabel terikat, institusi, dan responden yang berbeda sehingga hasilnya tidak dapat dibandingkan secara langsung."
+            },
+            {
+              "t": "p",
+              "text": "Temuan-temuan tersebut berasal dari institusi lain dan belum tentu berlaku bagi mahasiswa Universitas Riau. Dosen dan pengelola program studi memerlukan data dari mahasiswanya sendiri sebelum menentukan apakah penggunaan ChatGPT dalam perkuliahan perlu dibatasi, diarahkan, atau dimanfaatkan."
+            },
+            {
+              "t": "p",
+              "text": "Berdasarkan hal tersebut, penelitian ini mengkaji pengaruh penggunaan ChatGPT terhadap kemampuan berpikir kritis mahasiswa Universitas Riau dengan judul “Pengaruh Penggunaan ChatGPT terhadap Kemampuan Berpikir Kritis Mahasiswa”."
+            }
+          ]
+        },
+        {
+          "judul": "Rumusan Masalah",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Berdasarkan latar belakang di atas, rumusan masalah dalam penelitian ini adalah sebagai berikut:"
+            },
+            {
+              "t": "list",
+              "items": [
+                "Bagaimana tingkat penggunaan ChatGPT oleh mahasiswa Universitas Riau dalam kegiatan perkuliahan?",
+                "Bagaimana tingkat kemampuan berpikir kritis mahasiswa Universitas Riau?",
+                "Seberapa besar pengaruh penggunaan ChatGPT terhadap kemampuan berpikir kritis mahasiswa Universitas Riau?"
+              ]
+            }
+          ]
+        },
+        {
+          "judul": "Batasan Masalah",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Agar penelitian ini terarah, ruang lingkupnya dibatasi sebagai berikut:"
+            },
+            {
+              "t": "list",
+              "items": [
+                "Variabel bebas adalah penggunaan ChatGPT dan variabel terikat adalah kemampuan berpikir kritis, yang diukur dengan mengacu pada enam keterampilan inti menurut Facione (1990).",
+                "Responden adalah mahasiswa aktif Universitas Riau yang pernah menggunakan ChatGPT untuk keperluan perkuliahan.",
+                "Penelitian ini hanya membahas ChatGPT dan tidak membandingkannya dengan alat AI lain."
+              ]
+            }
+          ]
+        },
+        {
+          "judul": "Tujuan Penelitian",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Sejalan dengan rumusan masalah tersebut, penelitian ini bertujuan untuk:"
+            },
+            {
+              "t": "list",
+              "items": [
+                "Mengetahui tingkat penggunaan ChatGPT oleh mahasiswa Universitas Riau dalam kegiatan perkuliahan.",
+                "Mengetahui tingkat kemampuan berpikir kritis mahasiswa Universitas Riau.",
+                "Menganalisis besarnya pengaruh penggunaan ChatGPT terhadap kemampuan berpikir kritis mahasiswa Universitas Riau."
+              ]
+            }
+          ]
+        },
+        {
+          "judul": "Manfaat Penelitian",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Hasil penelitian ini diharapkan memberikan manfaat, baik secara teoretis maupun praktis."
+            }
+          ],
+          "subs": [
+            {
+              "judul": "Manfaat Teoretis",
+              "blocks": [
+                {
+                  "t": "p",
+                  "text": "Penelitian ini diharapkan menambah bukti empiris tentang hubungan antara penggunaan AI generatif dan berpikir kritis mahasiswa, khususnya dari konteks perguruan tinggi di Indonesia. Hasilnya dapat dipakai sebagai rujukan oleh penelitian lanjutan yang memakai variabel atau responden berbeda."
+                }
+              ]
+            },
+            {
+              "judul": "Manfaat Praktis",
+              "blocks": [
+                {
+                  "t": "list",
+                  "items": [
+                    "Bagi mahasiswa, hasil penelitian ini memberikan data tentang hubungan antara kebiasaan menggunakan ChatGPT dan kemampuan berpikir kritis, yang dapat dipakai untuk mengevaluasi cara belajar masing-masing.",
+                    "Bagi dosen, hasil penelitian ini dapat menjadi pertimbangan dalam merancang tugas dan penilaian perkuliahan.",
+                    "Bagi Universitas Riau, hasil penelitian ini dapat menjadi dasar penyusunan panduan penggunaan AI dalam kegiatan akademik.",
+                    "Bagi peneliti, penelitian ini menjadi pengalaman menerapkan metode penelitian kuantitatif secara menyeluruh, mulai dari perancangan sampai pelaporan."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "judul": "Tinjauan Pustaka",
+      "sections": [
+        {
+          "judul": "Landasan Teori",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Bagian ini menguraikan konsep yang menjadi dasar kedua variabel penelitian dan hubungan di antara keduanya."
+            }
+          ],
+          "subs": [
+            {
+              "judul": "ChatGPT dan AI Generatif",
+              "blocks": [
+                {
+                  "t": "p",
+                  "text": "Dalam penelitian ini ChatGPT diperlakukan sebagai salah satu alat AI generatif yang dipakai mahasiswa untuk mengerjakan tugas perkuliahan. Penggunaannya dapat diukur dari seberapa sering, selama apa, dan untuk keperluan apa alat itu dipakai, sebagaimana survei Freeman (2025) membedakan penggunaan alat AI secara umum dari penggunaannya untuk tugas yang dinilai."
+                }
+              ]
+            },
+            {
+              "judul": "Berpikir Kritis",
+              "blocks": [
+                {
+                  "t": "p",
+                  "text": "Facione (1990) memuat kesepakatan panel pakar bahwa berpikir kritis adalah penilaian yang bertujuan dan mengatur diri sendiri, yang menghasilkan interpretasi, analisis, evaluasi, dan inferensi. Laporan yang sama menetapkan enam keterampilan inti, yaitu interpretasi, analisis, evaluasi, inferensi, penjelasan, dan pengaturan diri. Keenam keterampilan ini dipakai sebagai indikator variabel terikat dalam penelitian ini."
+                }
+              ]
+            },
+            {
+              "judul": "Pengalihan Kognitif",
+              "blocks": [
+                {
+                  "t": "p",
+                  "text": "Gerlich (2025) memakai istilah pengalihan kognitif untuk kecenderungan menyerahkan proses berpikir kepada alat. Dalam studinya, pengalihan kognitif menjadi penghubung antara seringnya penggunaan alat AI dan menurunnya kemampuan berpikir kritis. Konsep ini membantu menjelaskan mengapa cara memakai ChatGPT, dan bukan hanya seberapa sering dipakai, perlu diperhatikan dalam pengukuran variabel bebas."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "judul": "Penelitian Terdahulu",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Tabel 2.1 merangkum tiga penelitian yang paling dekat dengan topik ini."
+            },
+            {
+              "t": "table",
+              "caption": "Ringkasan penelitian terdahulu",
+              "headers": [
+                "Peneliti",
+                "Responden",
+                "Temuan",
+                "Catatan desain"
+              ],
+              "widths": [
+                1700,
+                1900,
+                2337,
+                2000
+              ],
+              "rows": [
+                [
+                  "Gerlich (2025)",
+                  "666 partisipan",
+                  "Korelasi negatif yang kuat antara penggunaan alat AI dan berpikir kritis, dimediasi pengalihan kognitif",
+                  "Korelasional dan laporan diri"
+                ],
+                [
+                  "Nurcahyani dan Noviani (2026)",
+                  "Mahasiswa S-1 Universitas Sebelas Maret dan siswa SMA Negeri 1 Kartasura",
+                  "Pengaruh negatif yang signifikan pada kedua kelompok",
+                  "Survei dengan kuesioner; ukuran sampel tidak dirinci di abstrak"
+                ],
+                [
+                  "Rahmawati dkk. (2025)",
+                  "62 mahasiswa Pendidikan Ekonomi",
+                  "Pengaruh positif yang signifikan pada keterampilan menyusun pertanyaan efektif (R² = 0,779)",
+                  "Variabel terikat berbeda; residual tidak berdistribusi normal"
+                ]
+              ],
+              "sumber": "Diolah dari Gerlich (2025), Nurcahyani dan Noviani (2026), serta Rahmawati dkk. (2025)"
+            },
+            {
+              "t": "p",
+              "text": "Ketiga studi memakai variabel terikat dan responden yang berbeda, dan arah temuannya tidak sama. Studi Rahmawati dkk. (2025) juga melaporkan bahwa residual regresinya tidak memenuhi uji normalitas, sehingga penelitian ini merencanakan pemeriksaan asumsi tersebut sejak awal (lihat Bab III)."
+            }
+          ]
+        },
+        {
+          "judul": "Kerangka Konseptual",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Kerangka konseptual penelitian ini menempatkan penggunaan ChatGPT sebagai variabel bebas (X) dan kemampuan berpikir kritis sebagai variabel terikat (Y), seperti terlihat pada Gambar 2.1."
+            },
+            {
+              "t": "image",
+              "path": "kerangka_konseptual.png",
+              "caption": "Kerangka konseptual penelitian",
+              "alt": "Diagram dua kotak: Penggunaan ChatGPT (X) dengan panah H1 menuju Kemampuan Berpikir Kritis (Y)",
+              "width_cm": 11,
+              "sumber": "Dirancang peneliti berdasarkan Facione (1990) dan Gerlich (2025)"
+            }
+          ]
+        },
+        {
+          "judul": "Hipotesis",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Penelitian terdahulu menunjukkan arah pengaruh yang berbeda (Nurcahyani dan Noviani, 2026; Rahmawati dkk., 2025), meskipun variabel terikatnya tidak sama. Karena itu hipotesis dirumuskan tanpa menentukan arah pengaruh."
+            },
+            {
+              "t": "p",
+              "text": "$H_0$: Penggunaan ChatGPT tidak berpengaruh terhadap kemampuan berpikir kritis mahasiswa."
+            },
+            {
+              "t": "p",
+              "text": "$H_1$: Penggunaan ChatGPT berpengaruh terhadap kemampuan berpikir kritis mahasiswa."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "judul": "Metode Penelitian",
+      "sections": [
+        {
+          "judul": "Jenis dan Desain Penelitian",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Penelitian ini adalah penelitian kuantitatif asosiatif dengan desain survei satu waktu. Desain ini dapat menunjukkan besarnya pengaruh secara statistik, tetapi tidak membuktikan hubungan sebab-akibat, sebagaimana keterbatasan studi korelasional seperti Gerlich (2025). Keterbatasan ini dicantumkan dalam pembahasan hasil."
+            }
+          ]
+        },
+        {
+          "judul": "Tempat dan Waktu Penelitian",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Penelitian dilaksanakan di Universitas Riau, Pekanbaru, dengan pengumpulan data secara daring. Rincian waktu per minggu disajikan pada subbab Jadwal Penelitian."
+            }
+          ]
+        },
+        {
+          "judul": "Populasi dan Sampel",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Populasi penelitian adalah mahasiswa aktif Universitas Riau yang pernah menggunakan ChatGPT untuk keperluan perkuliahan. Ukuran sampel dihitung dengan rumus Slovin, yang dipakai untuk populasi terbatas dan menghasilkan sampel terbanyak bila proporsi populasi mendekati 0,5 (Majdina dkk., 2024):"
+            },
+            {
+              "t": "equation",
+              "latex": "n = \\frac{N}{1 + N e^{2}}",
+              "nomor": true
+            },
+            {
+              "t": "p",
+              "text": "dengan $n$ adalah jumlah sampel, $N$ adalah jumlah populasi, dan $e$ adalah batas kesalahan yang ditoleransi, yaitu 10%. Nilai $N$ akan ditetapkan setelah data jumlah mahasiswa aktif diperoleh dari bagian akademik. Sampel dipilih dengan teknik simple random sampling dari daftar mahasiswa tersebut."
+            }
+          ]
+        },
+        {
+          "judul": "Variabel dan Definisi Operasional",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Definisi operasional dan indikator kedua variabel disajikan pada Tabel 3.1."
+            },
+            {
+              "t": "table",
+              "caption": "Definisi operasional variabel",
+              "headers": [
+                "Variabel",
+                "Definisi operasional",
+                "Indikator",
+                "Skala"
+              ],
+              "widths": [
+                1500,
+                2600,
+                2837,
+                1000
+              ],
+              "rows": [
+                [
+                  "Penggunaan ChatGPT (X)",
+                  "Kebiasaan mahasiswa memakai ChatGPT untuk keperluan perkuliahan",
+                  "Frekuensi, durasi, tujuan, dan cara memeriksa jawaban",
+                  "Likert 1-5"
+                ],
+                [
+                  "Kemampuan berpikir kritis (Y)",
+                  "Kemampuan menilai informasi dan menyusun argumen secara terarah dan mengatur diri sendiri (Facione, 1990)",
+                  "Interpretasi, analisis, evaluasi, inferensi, penjelasan, dan pengaturan diri",
+                  "Likert 1-5"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "judul": "Instrumen dan Pengumpulan Data",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Data dikumpulkan dengan kuesioner tertutup berskala Likert 1 sampai 5 yang disebarkan melalui formulir daring. Kuesioner terdiri atas dua bagian, yaitu penggunaan ChatGPT dan kemampuan berpikir kritis. Kisi-kisi dan contoh pernyataan disajikan pada Lampiran 1."
+            }
+          ]
+        },
+        {
+          "judul": "Uji Instrumen",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Validitas butir diuji dengan korelasi product moment antara skor butir dan skor total, dan butir dinyatakan valid bila koefisien korelasinya melampaui nilai kritis pada taraf signifikansi 5%. Reliabilitas diuji dengan koefisien Cronbach alpha; Yusup (2018) menyebut nilai di atas 0,70 sebagai tanda instrumen reliabel. Uji ini dilakukan pada sampel uji coba sebelum pengumpulan data utama."
+            }
+          ]
+        },
+        {
+          "judul": "Teknik Analisis Data",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Tingkat penggunaan ChatGPT dan tingkat berpikir kritis dideskripsikan dengan rata-rata, simpangan baku, dan kategori skor. Sebelum pengujian hipotesis, normalitas residual diperiksa dengan uji Shapiro-Wilk; bila asumsi tidak terpenuhi, analisis dilengkapi dengan metode yang tidak mensyaratkan normalitas. Pengaruh X terhadap Y dianalisis dengan regresi linier sederhana:"
+            },
+            {
+              "t": "equation",
+              "latex": "\\hat{Y} = a + bX",
+              "nomor": true
+            },
+            {
+              "t": "p",
+              "text": "dengan $a$ adalah konstanta dan $b$ adalah koefisien regresi. Hipotesis diuji dengan uji t pada taraf signifikansi 5%, dan besarnya pengaruh dilihat dari koefisien determinasi $R^2$. Seluruh perhitungan memakai perangkat lunak statistik."
+            }
+          ]
+        },
+        {
+          "judul": "Jadwal Penelitian",
+          "blocks": [
+            {
+              "t": "p",
+              "text": "Penelitian direncanakan berlangsung selama delapan minggu seperti pada Tabel 3.2."
+            },
+            {
+              "t": "table",
+              "caption": "Jadwal penelitian",
+              "headers": [
+                "Kegiatan",
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8"
+              ],
+              "widths": [
+                3137,
+                600,
+                600,
+                600,
+                600,
+                600,
+                600,
+                600,
+                600
+              ],
+              "rata_tengah": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8
+              ],
+              "rows": [
+                [
+                  "Penyusunan kuesioner",
+                  "√",
+                  "√",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "Uji coba dan uji instrumen",
+                  "",
+                  "√",
+                  "√",
+                  "",
+                  "",
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "Pengumpulan data",
+                  "",
+                  "",
+                  "√",
+                  "√",
+                  "√",
+                  "",
+                  "",
+                  ""
+                ],
+                [
+                  "Analisis data",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "√",
+                  "√",
+                  "",
+                  ""
+                ],
+                [
+                  "Penulisan laporan",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "",
+                  "√",
+                  "√",
+                  "√"
+                ]
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "lampiran": [
+    {
+      "judul": "Kisi-Kisi Kuesioner",
+      "blocks": [
+        {
+          "t": "p",
+          "text": "Tabel L1.1 memuat kisi-kisi dan contoh pernyataan yang akan diuji coba pada tahap uji instrumen."
+        },
+        {
+          "t": "table",
+          "caption": "Kisi-kisi dan contoh pernyataan kuesioner",
+          "headers": [
+            "Variabel",
+            "Indikator",
+            "Contoh pernyataan"
+          ],
+          "widths": [
+            1700,
+            2237,
+            4000
+          ],
+          "rows": [
+            [
+              "Penggunaan ChatGPT (X)",
+              "Frekuensi",
+              "Saya menggunakan ChatGPT untuk mengerjakan tugas kuliah setiap pekan."
+            ],
+            [
+              "Penggunaan ChatGPT (X)",
+              "Cara memeriksa jawaban",
+              "Saya membandingkan jawaban ChatGPT dengan sumber lain sebelum memakainya."
+            ],
+            [
+              "Berpikir kritis (Y)",
+              "Analisis",
+              "Saya memeriksa alasan di balik suatu pendapat sebelum menerimanya."
+            ],
+            [
+              "Berpikir kritis (Y)",
+              "Evaluasi",
+              "Saya menilai apakah sumber bacaan cukup dapat dipercaya."
+            ],
+            [
+              "Berpikir kritis (Y)",
+              "Pengaturan diri",
+              "Saya meninjau ulang kesimpulan saya ketika menemukan bukti baru."
+            ]
+          ]
+        }
+      ]
+    }
+  ],
+  "daftar_pustaka": [
+    "Facione, P. A. (1990). *Critical thinking: A statement of expert consensus for purposes of educational assessment and instruction*. California Academic Press. https://philarchive.org/rec/FACCTA",
+    "Freeman, J. (2025). *Student generative AI survey 2025* (HEPI Policy Note 61). Higher Education Policy Institute. https://www.hepi.ac.uk/2025/02/26/student-generative-ai-survey-2025/",
+    "Gerlich, M. (2025). AI tools in society: Impacts on cognitive offloading and the future of critical thinking. *Societies*, *15*(1), Article 6. https://doi.org/10.3390/soc15010006",
+    "Majdina, N. I., Pratikno, B., & Tripena, A. (2024). Penentuan ukuran sampel menggunakan rumus Bernoulli dan Slovin: Konsep dan aplikasinya. *Jurnal Ilmiah Matematika dan Pendidikan Matematika*, *16*(1), 73–84. https://doi.org/10.20884/1.jmp.2024.16.1.11230",
+    "Nurcahyani, S. T., & Noviani, L. (2026). Pengaruh penggunaan ChatGPT terhadap kemampuan berpikir kritis pada siswa SMA Negeri 1 Kartasura dan mahasiswa S-1 Universitas Sebelas Maret. *J-KIP (Jurnal Keguruan dan Ilmu Pendidikan)*, *7*(2), 686–702. https://doi.org/10.25157/j-kip.v7i2.20097",
+    "Rahmawati, L., Yuliawati, R., Anisah, A., & Hermansyah, H. (2025). Analisis pengaruh pemanfaatan ChatGPT terhadap keterampilan menyusun pertanyaan efektif pada mahasiswa Pendidikan Ekonomi. *JATI (Jurnal Mahasiswa Teknik Informatika)*, *9*(5), 7858–7864. https://doi.org/10.36040/jati.v9i5.14921",
+    "Yusup, F. (2018). Uji validitas dan reliabilitas instrumen penelitian kuantitatif. *Jurnal Tarbiyah: Jurnal Ilmiah Kependidikan*, *7*(1), 17–23. https://jurnal.uin-antasari.ac.id/index.php/jtjik/article/download/2100/1544"
+  ],
+  "verifikasi_referensi": [
+    {
+      "ref": "Facione, P. A. (1990)",
+      "jenis": "laporan",
+      "bahasa": "en",
+      "ditemukan_lewat": "Dari pengguna",
+      "dicek_lewat": "PDF laporan (CUNY QCC) + laman PhilArchive"
+    },
+    {
+      "ref": "Freeman, J. (2025)",
+      "jenis": "laporan",
+      "bahasa": "en",
+      "ditemukan_lewat": "Dari pengguna",
+      "dicek_lewat": "Laman HEPI (angka 66%, 92%, 88% dicocokkan)"
+    },
+    {
+      "ref": "Gerlich, M. (2025)",
+      "jenis": "jurnal",
+      "bahasa": "en",
+      "ditemukan_lewat": "Dari pengguna",
+      "dicek_lewat": "Artikel PsyPost + hasil pencarian DOAJ/SSRN/RePEc; laman MDPI belum dibuka; nilai r tidak dipakai karena tidak terkonfirmasi"
+    },
+    {
+      "ref": "Majdina, N. I.",
+      "jenis": "jurnal",
+      "bahasa": "id",
+      "ditemukan_lewat": "Pencarian web",
+      "dicek_lewat": "Laman OJS Unsoed (metadata dan abstrak)"
+    },
+    {
+      "ref": "Nurcahyani, S. T.",
+      "jenis": "jurnal",
+      "bahasa": "id",
+      "ditemukan_lewat": "Dari pengguna",
+      "dicek_lewat": "Laman OJS J-KIP (metadata dan abstrak)"
+    },
+    {
+      "ref": "Rahmawati, L.",
+      "jenis": "jurnal",
+      "bahasa": "id",
+      "ditemukan_lewat": "Dari pengguna",
+      "dicek_lewat": "PDF artikel di OJS JATI (metadata, sampel, R2, uji normalitas)"
+    },
+    {
+      "ref": "Yusup, F. (2018)",
+      "jenis": "jurnal",
+      "bahasa": "id",
+      "ditemukan_lewat": "Pencarian web",
+      "dicek_lewat": "PDF artikel di OJS UIN Antasari (metadata dan isi)"
+    }
+  ],
+  "sumber_dibuang": [
+    {
+      "sumber": "Walters & Wilder (2023), dan angka r = -0,68 dari Gerlich (2025)",
+      "alasan": "Walters & Wilder kurang relevan dengan berpikir kritis; angka r tidak bisa dikonfirmasi dari sumber yang dibuka"
+    },
+    {
+      "sumber": "OpenAI (2022), Introducing ChatGPT",
+      "alasan": "laman tidak menampilkan judul dan tanggal saat dibuka otomatis, jadi tanggal rilis tidak dikutip"
+    }
+  ]
+}
